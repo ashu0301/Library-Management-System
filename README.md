@@ -1,4 +1,3 @@
 # Library-Management-System
 
-### This is Menu-Driven Library Management System 
-### TECH - Python | Object Oriented Programming
+### I have created this Menu-Driven Library Management System using Python | Object Oriented Programming
